@@ -30,3 +30,4 @@ pytest -q
 ## CI
 
 `Jenkinsfile` runs on Jenkins (AWS EC2): prints who/what/when for the commit, runs unit tests, runs a basic dependency security scan.
+# ci trigger Sun Jul 19 22:25:30 IST 2026
